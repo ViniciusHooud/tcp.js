@@ -1,0 +1,9 @@
+{
+  "name": "tcp.js",
+  "version": "0.0.0",
+  "description": "tcp.js",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
